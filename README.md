@@ -1,6 +1,6 @@
 <!-- FINAL GitHub Profile README - DeepakSan -->
 <h1 align="center">Hi 👋, I'm <b>Deepak San</b></h1>
-<h3 align="center">Student | Data Analyst | Web Developer</h3>
+<h3 align="center"> Amity University Student | Data Analyst | Web Developer</h3>
 
 ---
 
