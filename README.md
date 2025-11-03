@@ -18,12 +18,12 @@
 
 ### 🧰 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats ( Tokyo Night Theme )
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepakSan&show_icons=true&theme=tokyonight&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSan&theme=tokyonight" height="150" />
@@ -56,6 +56,8 @@
 
 ### 🌐 Connect with Me
 <p align="left">
+  <a href="https://www.instagram.com/_msingh7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@realmannv"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="mailto:deepakumarshay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://in.linkedin.com/in/deepakumarshay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/DeepakSan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -64,6 +66,6 @@
 ---
 
 <p align="center">
-  <sub>Made with ❤️ by <b>Deepak San</b> | Tokyo Night Theme</sub>
+  <sub>Made with ❤️ by <b>Deepak San</b> | </sub>
 </p>
 # DeepakSan
