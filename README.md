@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats (Tokyo Night Theme)
+### 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepakSan&show_icons=true&theme=tokyonight&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSan&theme=tokyonight" height="150" />
